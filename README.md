@@ -4,15 +4,15 @@
 This is a simple snake game in Python using Turtle Library.
 
 # How to use
-1.Install Python 3.9.X from [here](https://www.python.org/downloads)
+1. Install Python 3.9.X from [here](https://www.python.org/downloads)
 
-2.Install Turtle from [here](https://pythonturtle.org/)
+2. Install Turtle from [here](https://pythonturtle.org/)
 
-3.Clone this repository: git clone `https://github.com/mdhasibulhasan3137/Snake-Game` or click `Download ZIP` in the right panel and extract it.
+3. Clone this repository: git clone `https://github.com/mdhasibulhasan3137/Snake-Game` or click `Download ZIP` in the right panel and extract it.
 
-4.Run `python main.py` from the repository's directory
+4. Run `python main.py` from the repository's directory
 
-5.Use Left, Right, Up, Down Key to Control Snake.
+5. Use Left, Right, Up, Down Key to Control Snake.
 
 Enjoy playing!
 
