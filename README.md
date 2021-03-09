@@ -1,21 +1,26 @@
 # Snake-Game - Python
 
 # Description:
-This is a simple snake game in Python using Turtle Library.
+YouTube Video Downloader in Python using tkinter and pytube Library.
 
 # How to use
 1. Install Python 3.9.X from [here](https://www.python.org/downloads)
 
-2. Install Turtle from [here](https://pythonturtle.org/)
+2. Install tkinter from [here](https://docs.python.org/3/library/tkinter.html)
 
-3. Clone this repository: git clone `https://github.com/mdhasibulhasan3137/Snake-Game` or click `Download ZIP` in the right panel and extract it.
+3. Install pytube from [here](https://pypi.org/project/pytube/)
 
-4. Run `python main.py` from the repository's directory
+4. Clone this repository: git clone `https://github.com/mdhasibulhasan3137/YouTube-Video-Downloader` or click `Download ZIP` in the right panel and extract it.
 
-5. Use Left, Right, Up, Down Key to Control Snake.
+5. Run `python main.py` from the repository's directory
 
-Enjoy playing!
+6. Copy and YouTube video url and paste then press download.
+
+7. When Download have been done check your file folder, You can get your video.
+
 
 # Screenshots
-![ScreenShot 1](https://user-images.githubusercontent.com/41125795/110384187-7feb4f00-8087-11eb-8c88-30d000e7ba03.JPG)
-![ScreenShot 2](https://user-images.githubusercontent.com/41125795/110384191-811c7c00-8087-11eb-8671-aca522f010c7.JPG)
+![Capture](https://user-images.githubusercontent.com/41125795/110539061-f901a980-814e-11eb-8d81-c9851473d666.JPG)
+![Capture2](https://user-images.githubusercontent.com/41125795/110539034-f1da9b80-814e-11eb-8c45-fafbfacce639.JPG)
+
+
